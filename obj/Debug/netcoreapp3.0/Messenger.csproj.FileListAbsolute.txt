@@ -1,0 +1,13 @@
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.exe
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.deps.json
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.runtimeconfig.json
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.runtimeconfig.dev.json
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.dll
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Messenger.pdb
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.csprojAssemblyReference.cache
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.AssemblyInfoInputs.cache
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.AssemblyInfo.cs
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.dll
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.pdb
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\jleyv\RiderProjects\Messenger\Messenger\obj\Debug\netcoreapp3.0\Messenger.csproj.CopyComplete

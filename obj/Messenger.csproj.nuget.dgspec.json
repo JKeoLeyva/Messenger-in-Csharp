@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jleyv\\RiderProjects\\Messenger\\Messenger\\Messenger.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jleyv\\RiderProjects\\Messenger\\Messenger\\Messenger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jleyv\\RiderProjects\\Messenger\\Messenger\\Messenger.csproj",
+        "projectName": "Messenger",
+        "projectPath": "C:\\Users\\jleyv\\RiderProjects\\Messenger\\Messenger\\Messenger.csproj",
+        "packagesPath": "C:\\Users\\jleyv\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jleyv\\RiderProjects\\Messenger\\Messenger\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jleyv\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
